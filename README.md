@@ -6,6 +6,7 @@ It includes some of the projects I’ve worked on, along with the technologies I
 
 🚀 A place to keep my work, track my progress, and share what I’m building.
 
+---------------------------------------------------------
 going to rebuild it
 
  
