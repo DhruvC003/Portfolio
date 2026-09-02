@@ -1,2 +1,9 @@
-# Portfolio
-A portfolio is a collection of work that showcases an individual's skills, experiences, and accomplishments. It is often used in creative fields such as art, design, photography, writing, and architecture, but can also be valuable in business, education, and other professional areas.
+# 🌐 Portfolio
+
+My personal portfolio website where I showcase my **projects, skills, experience, and interests in technology**.
+
+It includes some of the projects I’ve worked on, along with the technologies I’ve explored in **software development, AI, robotics, Web3, and computer vision**.
+
+🚀 A place to keep my work, track my progress, and share what I’m building.
+
+ 
